@@ -5,7 +5,7 @@ A PHP + MySQL web app to manage subscriptions, payments, and audit logs.
 ## Setup
 1. Create a MySQL database named `subscription_system`.
 2. Import `subscription_serviceDB.sql` (MySQL Workbench).
-3. Place the `Subcription_service_php` folder in `C:\xampp\htdocs\subscription_system`.
+3. Place the `Subcription_Service_php` folder in `C:\xampp\htdocs\subscription_system`.
 4. Start Apache in XAMPP.
 5. Start your MySQL server.
 6. If your MySQL uses a password, update the DB connection line at the top of each PHP file.
