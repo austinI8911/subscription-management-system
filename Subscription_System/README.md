@@ -14,6 +14,7 @@ A PHP + MySQL web app to manage subscriptions, payments, and audit logs.
 ## Included
 - PHP source files
 - `subscription_serviceDB.sql` (schema setup)
+- `sample_data.sql` (data to populate database)
 - `Subscription_serviceDB.mwb` (EER relational diagram)
 - `Subscription_serviceDB.png` (EER diagram Screenshot)
 - `Subscription_Management_Report.pdf` (full project report)
